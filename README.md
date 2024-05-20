@@ -75,25 +75,13 @@ These results indicate that the model provides a reasonably accurate prediction 
 
 To use this project, follow these steps:
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/Linear-Regression-to-predict-car-price.git
-    ```
+1\. **Access the Kaggle notebook**:
 
-2. Navigate to the project directory:
-    ```bash
-    cd Linear-Regression-to-predict-car-price
-    ```
+   - Open the Kaggle notebook by clicking on the following link: [[Link to Kaggle notebook](https://www.kaggle.com/code/sahilwarudkar/analysis-of-factors-affecting-car-prize/edit)]
 
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+2\. **Run the notebook**:
 
-4. Run the Jupyter Notebook to see the analysis and model implementation:
-    ```bash
-    jupyter notebook
-    ```
+   - Once the notebook is open, you can run each cell sequentially to see the analysis and model implementation.
 
 ## Contributing
 
